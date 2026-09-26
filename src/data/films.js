@@ -63,15 +63,6 @@
     image: "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg"
   },
   {
-    id: 8,
-    title: "Whiplash",
-    year: 2014,
-    genre: "Drama",
-    rating: 8.5,
-    director: "Damien Chazelle",
-    image: "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeNOVIE.jpg"
-  },
-  {
     id: 9,
     title: "Parasite",
     year: 2019,

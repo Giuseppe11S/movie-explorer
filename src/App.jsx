@@ -27,7 +27,7 @@ function App() {
      <p>Explore your favorites films</p>
 
       {/* list of films */}
-      <div>
+      <div className='films-box'>
         {fullList()}
       </div>
     </>

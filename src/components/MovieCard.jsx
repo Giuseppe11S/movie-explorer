@@ -3,13 +3,15 @@
 function MovieCard({id, title, img, year, genre, rating, director}) {
   return (
     <>
-    {id}
-    {title}
-    {genre}
-    {rating}
-    {director}
-    {<img src={img}/>}
-    {year}
+    <div className="film-card">
+      {id}
+      {title}
+      {genre}
+      {rating}
+      {director}
+      {<img src={img}/>}
+      {year}
+    </div>
     </>
   )
 }
